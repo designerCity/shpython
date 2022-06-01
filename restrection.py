@@ -7,7 +7,6 @@ while n <= 6:
     n+=1
 
 # 화씨 온도(°F)를 섭씨 온도(°C)로 바꾸어주는 프로그램
-
 temperature_list = [40, 15, 32, 64, -4, 11]
 print("화씨 온도 리스트: " + str(temperature_list))  # 화씨 온도 출력
 
