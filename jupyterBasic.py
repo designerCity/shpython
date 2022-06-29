@@ -1,4 +1,6 @@
+
 import numpy as np
+
 array1 = numpy.array([2,3,5,7,11,13,17,19,23,29])
 type(array1)
 numpy.ndarray
@@ -15,8 +17,10 @@ array([[ 1,  2,  3,  4],
        [ 9, 10, 11, 12]])
 array1.size
 10
+
 array2.size
 12
+
 arr1 = np.array([2,3,5,7,11, 13, 17, 19, 23,29, 31])
 print(arr1[0])
 print(arr1[2])
